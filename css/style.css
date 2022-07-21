@@ -2,13 +2,18 @@ body {
     background-color: #fafafa;
 }
 
-p, span, td, li, a {
-    font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+p,
+span,
+td,
+li,
+a {
+    font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
     font-size: 0.8rem;
 }
 
-h1, h3 {
-    font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
+h1,
+h3 {
+    font-family: Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif;
 }
 
 h1 {
