@@ -2,6 +2,11 @@ body {
     background-color: #fafafa;
 }
 
+h5 {
+    font-family: Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif;
+    position: relative;
+    right: 25px;
+}
 p,
 span,
 td,
@@ -22,4 +27,8 @@ h1 {
 
 .school {
     padding-left: 10px;
+}
+
+ul {
+  list-style-type: line-through;
 }
